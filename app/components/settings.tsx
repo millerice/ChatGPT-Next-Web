@@ -478,6 +478,7 @@ export function Settings() {
           </ListItem>
         </List>
 
+        {/* 访问密码等信息 */}
         {/* <List>
           {enabledAccessControl ? (
             <ListItem
@@ -570,6 +571,7 @@ export function Settings() {
           </ListItem>
         </List>
 
+        {/* 模型参数等信息 */}
         {/* <List>
           <ModelConfigList
             modelConfig={config.modelConfig}
